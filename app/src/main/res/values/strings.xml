@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator App</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="kg">kg</string>
+    <string name="m">m</string>
+    <string name="body_mass_index">Body Mass Index</string>
+    <string name="suggest_some_tips_your_fitness">Suggest Some tips your fitness</string>
+    <string name="click_here">Click Here!</string>
+    <string name="click">click</string>
+    <string name="the_morning_meal_is_ct_signfies">The morning meal is ct signfies</string>
+    <string name="back">Back</string>
+</resources>
